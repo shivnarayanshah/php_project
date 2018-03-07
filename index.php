@@ -12,5 +12,13 @@
  		<li>Basic</li>
  		<li>advanced</li>
 
+ 	</ul>
+
 </body>
 </html>
+
+<?php
+$number1=500;
+$result=300;
+$result+=$number1;
+echo $result;
