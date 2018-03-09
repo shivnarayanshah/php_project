@@ -8,7 +8,7 @@
 
 $i=0;
 do{
-	echo $i;
+	echo $i . "hello world";
 	echo"<hr>";
 	$i++;
 
